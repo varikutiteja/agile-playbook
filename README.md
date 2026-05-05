@@ -14,7 +14,7 @@ Tech and FinTech environments.
 | `user-stories/template.md` | User story format with real examples |
 | `definition-of-done.md` | What "done" actually means |
 
-## How I used this at VIGIT TECH
+## How I used this at Projects
 
 - Managed 3–5 concurrent Agile workstreams simultaneously
 - Facilitated sprint planning, backlog grooming, standups and retros
